@@ -1,0 +1,145 @@
+h1, h2 {
+    color: #83161B;
+}
+p, li {
+    color: #38623E;
+    font-size: 110%;
+    padding-right: 20px !important;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+a {
+    color: #38623E;
+}
+a:hover {
+    font-weight: bold !important;
+    color: #83161B !important;
+    text-decoration: none !important;
+}
+.active {
+    font-weight: bold;
+    color: #83161B !important;
+}
+.btn-link:hover {
+    text-decoration: none;
+}
+.btn-link:enabled {
+    text-decoration: none;
+}
+.red {
+    color: #83161B;
+}
+.white {
+    color: white;
+}
+.green {
+    color: #38623E;
+}
+/* .container-fluid {
+    margin-left: 10%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} */
+.shadowed {
+    box-shadow: 8px 8px 17px black;
+}
+.centerText {
+    text-align: center;
+}
+.nav-link {
+    color: #38623E !important;
+}
+.emailFont {
+    font-size: 160%;
+}
+.whiteSpace {
+    white-space: normal;
+}
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.fa:hover {
+    color: #38623E !important;
+    text-decoration: none;
+}
+.body {
+    font-family: 'IM Fell Great Primer SC', serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.card-header {
+    background-color: white;
+}
+.imageAdjust {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    padding: 5px;
+}
+#navBar {
+    background-color: white;
+    font-family: 'IM Fell Great Primer SC', serif;
+    font-size: 130%;
+    margin-top: 10px;
+}
+
+#logo {
+    margin-left: auto;
+    margin-right: 20%;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+#logoText {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: auto;
+    width: 86%;
+    margin-left: 7%;
+}
+#cheesepizza {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+}
+#maxLogoDimensions {
+    max-height: 291px;
+    max-width: 300px;
+}
+#gallery {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: 35%;
+    max-width: 50%;
+}
+#introBox {
+    background-color: #83161B;
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 350%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+#footer {
+    background-color: #83161B;
+    color: white !important;
+    font-family: 'IM Fell Great Primer SC', serif;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+#imageContainer {
+    text-align: center;
+}
